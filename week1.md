@@ -96,6 +96,12 @@
     * Run again to see the effect
 14. Open coding and experimentation time
 
+### Additional challenges
+* Turn the square into a hexagon
+* Draw a big square and a small square each time
+* Experiment with different numbers of rotations - need to change repeat and degrees
+
+
 Other questions that may come up
 
 * Setting the starting position * if sprite is dragged to a new place on the screen, it will just draw there. You can initialize the starting position by using blue motion block “go to x:0 y:0"
